@@ -1,0 +1,16 @@
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe.config
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.pdb
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.AssemblyReference.cache
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Properties.Resources.resources
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.GenerateResource.cache
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.CoreCompileInputs.cache
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.exe
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.pdb
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Dangnhap.resources
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Nhanvien.resources
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Nhomhang.resources
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Quanlynhapkho.resources
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Quanlysanpham.resources
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Quanlyxuatkho.resources
+D:\QLKhoHang\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Trangchu.resources
